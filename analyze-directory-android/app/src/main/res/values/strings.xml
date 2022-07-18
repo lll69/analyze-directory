@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">文件夹分析</string>
+    <string name="analyze">分析</string>
+    <string name="choose_directory">选择文件夹</string>
+    <string name="analyze_details">分析%1$s %2$.8f%%</string>
+    <string name="analyze_finished">分析完成%1$s</string>
+    <string name="grant_permission">请授予“%s”权限</string>
+</resources>

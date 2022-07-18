@@ -26,7 +26,7 @@ public class FileItem {
     public static final String SEPARATOR = File.separator;
     public final AnalyzeThread analyzeThread;
     public final File file;
-    public final FileItem parent;
+    public final DirItem parent;
     public final long fileSize;
     public final boolean isFile;
     public final boolean isLink;
